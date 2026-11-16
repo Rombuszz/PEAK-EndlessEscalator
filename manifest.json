@@ -1,0 +1,9 @@
+{
+  "name": "EndlessEscalator",
+  "version_number": "2.0.0",
+  "website_url": "https://rombusz.dev/contacts/bug-report/?mod=endless-escalator",
+  "description": "Lets you ride the airport escalator indefinitely.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.75301"
+  ]
+}
